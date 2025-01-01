@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">SNJB COE Auditorium</string>
+
+    <!-- Text Labels -->
+    <string name="login_text">SignIn</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="signup_text">Not yet registered? SignUp Now</string>
+
+    <!-- Toast Messages -->
+    <string name="login_success">Login Successful!</string>
+    <string name="login_failed">Login Failed!</string>
+    <!--    <string name="registration_text">registration_text\n</string>-->
+
+    <!-- Registration Labels -->
+    <string name="registration_text">SignUp</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="new_password_hint">Password</string>
+    <string name="register_button_text">Register</string>
+    <string name="signinagain_text">Already registered? Login</string>
+
+    <!-- Toast Messages -->
+    <string name="signup_success">Sign-Up Successful!</string>
+    <string name="signup_failed">Please fill all fields!</string>
+
+    <!-- Booking Labels -->
+    <string name="booking_text">Bass evdhch kel ahe. bakich udya karel ata ani tumhi pn thod far baghun theva mhanje mala help hoil</string>
+
+</resources>
